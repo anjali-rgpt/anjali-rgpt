@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Specialization : Natural Language Processing, Natural Language Understanding, Human-Centered Artificial Intelligence Design, Ethics in NLP
+Preferred Programming Languages : Python 3, Java, C
+Domains of Active Exploration : Educational Technology, Accessible/ Inclusive Technology, Mental Health, Computational Social Science
+
 <!--
 **anjali-rgpt/anjali-rgpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
