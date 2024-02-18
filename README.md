@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Specialization : Natural Language Processing, Natural Language Understanding, Human-Centered Artificial Intelligence Design, Ethics in NLP 
+Specialization : Natural Language Processing, Prompt Engineering, Natural Language Understanding, Human-Centered Artificial Intelligence Design, Ethics in NLP 
 
 Preferred Programming Languages : Python 3, Java, C
 
-Domains of Active Exploration : Educational Technology, Accessible/ Inclusive Technology, Mental Health, Computational Social Science
+Domains of Active Exploration : Computational Linguistics, Educational Technology, Computational Social Science
 
 Some key projects from the past include : 
 
