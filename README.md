@@ -23,7 +23,7 @@ Some key projects from the past include :
 [RESEARCH: Automatic Evaluation of Short-Answer Responses using Clustering and Summarization](https://github.com/anjali-rgpt/NLP-Projects/tree/main/CORELabExamAutoEvaluation)
 [^5]Snippets of Jupyter notebooks exploring clustering and summarization methods on examinations from students in introductory programmatic reasoning classes. 
 
-[RESEARCH: Psycholinguistics Experiment as Part of LLM Idiom Interpretation Study](https://github.com/anjali-rgpt/idiom-interpretation)
+[RESEARCH: Psycholinguistics Experiment as Part of LLM Idiom Interpretation Study](https://github.com/anjali-rgpt/idiom-comprehension)
 [^6]Complete project repository containing experiment setup, data, and analysis scripts for psycholinguistic study on unfamiliar idiom interpretation in human participants.
 
 [Pipeline : A preprocessing pipeline for general-purpose tokenization, stopword removal, POS-tagging, and n-gram generation](https://github.com/anjali-rgpt/MediaSum-StackExchange-Dialogue-Analysis/blob/main/preprocess.py)
