@@ -6,7 +6,7 @@ Preferred Programming Languages : Python 3, Java, C
 
 Domains of Active Exploration : Computational Linguistics, Educational Technology, Computational Social Science
 
-Some key projects from the past include : 
+Some key projects from the past (Pre 2024) include : 
 
 [Topic Classification for Garage Reviews - An ML Task](https://github.com/anjali-rgpt/NLP-Projects/tree/main/TopicClassifiers)
 [^1] A project developed for automatic tagging of customer reviews using unsupervised topic modelling (LDA, GSDMM, CTM) and supervised multi-class, multi-label classification (Naive Bayes, Logistic Regression, SVM).
@@ -27,7 +27,9 @@ Some key projects from the past include :
 [^6]Complete project repository containing experiment setup, data, and analysis scripts for psycholinguistic study on unfamiliar idiom interpretation in human participants.
 
 [Pipeline : A preprocessing pipeline for general-purpose tokenization, stopword removal, POS-tagging, and n-gram generation](https://github.com/anjali-rgpt/MediaSum-StackExchange-Dialogue-Analysis/blob/main/preprocess.py)
-[^6] A useful piece of code with multiple functions that can be conveiently accessed using a pipeline method. Work in Progress to convert it into an encapsulated version of itself.
+[^6] A useful piece of code with multiple functions that can be conveniently accessed using a pipeline method. Work in Progress to convert it into an encapsulated version of itself.
+
+Contributing to applied research at Platflow Health at this private repo: [Work Repo Stats](https://github.com/anjalirg-platflow)
 
 
 <!--
